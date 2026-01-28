@@ -11,7 +11,6 @@ KPI 2: Participación del departamento: VentasDepto / VentasTotales.
 
 ## 🚨Datos
 
-Los datos utilizados para este análisis se obtuvieron de un archivo en Google Sheets.
 Debido a limitaciones de descarga, el dataset se accede mediante enlace externo.
 
 La ubicación del dataset y más detalles se encuentran en la carpeta `data/`.
