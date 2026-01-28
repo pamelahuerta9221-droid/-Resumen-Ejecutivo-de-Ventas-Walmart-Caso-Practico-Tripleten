@@ -1,7 +1,7 @@
 # -Resumen-Ejecutivo-de-Ventas-Walmart-Caso-Practico-Tripleten
 Se me presentó un caso como analista en Walmart: la Dirección Comercial necesita un resumen ejecutivo para decidir determinados ajustes de presupuesto e inventario.
 
-La Dirección Comercial de Walmart busca responder estas dos preguntas centrales:
+La Dirección busca responder estas dos preguntas centrales:
 
 ¿Qué categorías de departamento fueron más eficientes para generar ventas en 2012?
 KPI 1: Ventas por metro cuadrado (eficiencia): Ventas / Tamaño.
